@@ -1,10 +1,21 @@
-
+/* 
 @media (max-width: 600px) {
     body {
       background-color: #87ceeb;
     }
-  }
+  } */
+
+  @media only screen and(max-width: 892){
+
+        
+}
+.all-images{
+    display: grid;
+    grid-template-columns: auto auto;
+}
 *{
+    
+    
     padding: 0;
     margin: 0;
     box-sizing: border-box;
