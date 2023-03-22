@@ -175,7 +175,7 @@ border: solid yellow;
     background-color:red;
    
 }
-/* @media(min-width: 1025px) and (max-width:1200px) {
+@media(min-width: 1025px) and (max-width:1200px) {
     body{
     margin: 0;
     background-color: antiquewhite;
@@ -184,17 +184,13 @@ border: solid yellow;
     .images{
      margin: 2%;
      padding: 0;
-     
+    }
+     @media(min-width:800px) and (max-width:1280px){
+         .body{
+         
 
-
-
-      }
-
-    } */
-
-  
-       
-
+                  
+         }
 
         
    
