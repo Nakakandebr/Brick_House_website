@@ -177,7 +177,169 @@ border: solid yellow;
     background-color:red;
    
 }
-@media screen and (max-width: 820px) {
-	
+@media screen and (max-width: 667px) {
+
+
+    
+.opt{
+display: grid;
+margin-left: -10%;
+margin-top: 2%;
+
+
+}
+#woman{
+   height:40vh;
+    width: 100%;
+}
+.cat1{
+    margin-left: 1%;
+    margin-top:- 0.9%;  
+    
+   
+
+}
+.cat3{
+    margin-left: 3%;
+    margin-top: -1%; 
+   
+    
+}
+.cat2{
+    /* margin-top: 1%; 
+    margin-left:
+    margin-left: 1%; */
+    margin-left:-1%;
+    margin-top: -1%;
+}
+.row{
+
+    display: grid;
+    height: 40%;
+}
+.footer-col2{
+display: grid;
+width: 90px;
+height: 40%;
+
 }
 
+.footer{
+    /* margin: 10%; */
+height: 250vh;
+    width: 100%;
+
+}
+.ot{
+margin-left: -1.5%;
+
+
+}
+.three{
+    margin-left: -1.5%;
+
+}
+.four{
+
+    margin-left: -1.5%;    
+}
+.sixx{
+    margin-left: -1.5%; 
+
+}
+.seve{
+    margin-left: -1.5%; 
+
+}
+.eigh{
+
+    margin-left: -1.5%;     
+}
+.all{
+margin-left: 42%;
+
+
+}
+.series{
+margin-left: 2%;
+
+}
+.morre{
+    margin-left: 22%;
+
+}
+.dis{
+
+    margin-left: 22%; 
+}
+}
+@media screen and (max-width: 1024px) {
+.ye{
+    margin-left:-100%;
+
+}
+.cat3{
+    margin-left: 2%;
+   
+   
+
+}
+#woman{
+margin-top: 1%;
+
+}
+.footer{
+height: 60vh;
+width: 199.9%;
+margin-left:-96%;
+}
+
+}
+
+@media screen and (max-width: 1280px){
+    .footer{
+        height: 60vh;
+        width: 199.9%;
+        margin-left:-96%;
+        }
+        .ye{
+            margin-left:-100%;
+         
+
+}
+}
+@media screen and (max-width: 914px){
+
+    .footer{
+        height: 60vh;
+        width: 110%;
+        margin-left:-6%;
+        }
+        .opt{
+width: 100%;
+
+        }
+}
+@media screen and (max-width: 1368){
+
+    .footer{
+        height: 60vh;
+        width: 130%;
+        margin-left:-67%;
+        }
+        .opt{
+
+        }
+        .opt{
+            display: grid;
+            margin-left: 10%;
+            margin-top: 2%;
+            
+            
+}
+
+
+
+
+
+}

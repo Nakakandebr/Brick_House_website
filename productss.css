@@ -144,3 +144,77 @@
   padding-right: 37%;
   padding-left: 1%;
 }
+@media screen and (max-width: 892px){
+  .row{
+margin-left:90%;
+}
+.footer-col2{
+
+
+   
+    
+}
+
+.footer{
+   
+
+}
+.ot{
+margin-left: -1.5%;
+
+
+}
+
+
+}
+  #guide{
+margin-left: -110%;
+margin-top: 199%;
+width: 83%;
+  }
+  .img2{
+display: grid;
+
+  }
+
+.iconics{
+
+  margin-left: -160%;
+}
+#btn2b{
+
+  margin-left: -1%;
+}
+#word2{
+margin-top: 80%;
+ margin-left: -90%;
+}
+#word1{
+  /* margin-top: 1%; */
+  margin-left: 10%;
+
+}
+
+#word21{
+  margin-top: 10%;
+  margin-left: -790%;
+  
+  
+
+}
+#te{
+
+  font-size: 13px;
+  margin-left: 2%;
+}
+#bo{
+  font-size: 13px;
+  margin-left: 3%;
+}
+#clo{
+
+  font-size: 13px;
+  margin-left: 9%;
+
+}
+    
