@@ -1,9 +1,5 @@
 
-@media (max-width: 600px) {
-    body {
-      background-color: #87ceeb;
-    }
-  }
+
 *{
     padding: 0;
     margin: 0;
@@ -149,6 +145,12 @@ margin-bottom: -22%;
     margin-left: 30%;
 margin-top: -30%;
 }
+#woman{
+width: 45%;
+height: 60vh;
+
+
+}
 .ye{
 background-color: yellow;
 border: solid yellow;
@@ -175,24 +177,7 @@ border: solid yellow;
     background-color:red;
    
 }
-@media(min-width: 1025px) and (max-width:1200px) {
-    body{
-    margin: 0;
-    background-color: antiquewhite;
-    padding: 0;
-    }
-    .images{
-     margin: 2%;
-     padding: 0;
-    }
-     @media(min-width:800px) and (max-width:1280px){
-         .body{
-         
-
-                  
-         }
-
-        
-   
-   
+@media screen and (max-width: 820px) {
+	
+}
 
