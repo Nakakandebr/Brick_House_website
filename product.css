@@ -23,7 +23,8 @@
   
   }
   #ima1{
-  width: 50px;
+  width: 55px;
+  
   
   }
   h2{
@@ -31,10 +32,10 @@
     margin-top: -3%;
   }
   .all{
-    padding:10px;
+     
   border: solid yellow;
   background-color: yellow;
-  
+
   }
   .iconic{
   
@@ -332,21 +333,122 @@ margin-top: -3%;
   
   
   .footer{
-    padding:50px;
+  
     background-color: #26004C;
     color: #fff;
-   
-    height: 40vh;
-    
+       
   }
   .row{
+    
     display: flex;
-    justify-content: space-between;
+    
+    justify-content: space-between; 
   }
   .footer-two{
-    
+  
     display:flex;
     justify-content: space-between;
     
   }
   
+  @media screen and (max-width: 810px){
+  #product{
+font-size: 20px;
+
+
+  }
+  #tama{
+width:235px;
+height: 20vh;
+
+  }
+#army{
+
+  width:235px;
+  height: 20vh;
+
+}
+#atwo{
+
+  width:235px;
+  height: 20vh;
+  margin-left: 20%;
+
+}
+#maga1{
+height:20vh;
+  width: 85px;
+}
+}
+
+/* @media screen and (max-width: 1000px){
+.all{
+width: 510px;
+
+}
+.footer{
+width: 40px;
+
+}
+
+}
+@media screen and (max-width: 1368px){
+
+  .all{
+    width: 881px;
+    
+    }
+    .footer{
+    width: 804px;
+    }
+}
+
+@media screen and (max-width: 1024px){
+.all{
+width: 100%;
+
+
+}
+  .footer{
+
+
+    width: 90%;
+  }
+}
+@media screen and (max-width: 914px){
+
+  .all{
+    width: 100%;
+    
+    
+    }
+      .footer{
+    
+    
+        width: 80%;
+      }
+
+
+} */
+@media screen and (max-width: 800px){
+.footer{
+display: grid 1ftr;
+
+
+
+
+}
+.footer-two{
+
+ 
+
+}
+
+.row{
+
+
+  
+
+}
+
+}

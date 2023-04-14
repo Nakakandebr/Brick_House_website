@@ -1,0 +1,37 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+.first{
+    display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background-color: #FFD600;
+        padding: 12px;
+        color: whitesmoke;
+        font-weight: 100%;
+
+}
+#brick{
+    font-size: 20px;
+    color: white;
+    margin-left: 2%;
+
+}
+#ima1{
+width: 30px;
+
+
+}
+#evelop{
+color: white;
+margin-left: 60%;
+}
+
+
+
+
+@media screen and (max-width: 667px) {
+    .first{
+       display: grid;
+         grid-template-rows:repeat(1fr);  
+    }
+  }
+  

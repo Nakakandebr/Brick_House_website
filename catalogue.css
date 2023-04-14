@@ -8,16 +8,19 @@
 }
     .contain{text-align: center;
     }
-    .uk{width: 30px;float: right;
-        margin-left: -25%;
+    .uk{width: 30px;
+        
+        margin-left: 85%;
     }
     #imag{width: 80px;
     }
     .t{margin-left: 30%;
+        
     }
-    .brickhouse{display: flex;margin: 20px;
+    .brickhouse{display: flex;
+        margin: 20px;
         border-style: solid;
-        background-color: yellow;
+        background-color:yellow;
         border-color: yellow;
     }
     #cata{background-color: gray;
@@ -31,13 +34,17 @@
         height: 40px;
         width: 200px;
     }
-    #ht{font-size: 40px;
+     #ht{
+       
         margin: 10px;
     }
-    #cart{font-size: 40px;
+    #cart{
+        
+       
         margin: 10px;
     }
-    #use{font-size: 40px;
+    #use{
+        
         float: right;
         margin: 10px;
     }
@@ -45,7 +52,8 @@
         background-color: yellow;
         border-color: yellow;
         margin-top: -25%;
-        margin-top: 30%;
+
+        /* margin-top: 30%; */
     }
     .movi{display: flex;
         background-color: black;
@@ -267,8 +275,137 @@ margin-top: 4%;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+@media screen and (max-width: 810px){
+ #cata{
+
+
+ }
+ #lo{
+     font-size: 20px;
+ }
+ .t{
+margin-left: -80%;
+
+display: grid;
+ }
+#inp{
+margin-left: -100%;
+padding-left: 2px;
+margin-top: 45%;
+
+}
+
+
+}
+
 @media screen and (max-width: 1280px){
- 
+#lo{
+margin-left: 28%;
+font-size: 25px;
+
+}
+.contain{
+margin-left: -40%;
+font-size: 19px;
+}
+.uk{
+    margin-left: 80%;
+}
+#img3{
+    
+}
+
+}
+
+
+@media screen and (max-width: 1180px){
+.movi{
+
+    width: 115%;
+
+}
+.footer{
+width: 105%;
+
+
+
+}
+.brickhouse{
+
+    width: 115%;
+
+
+}
+}
+
+
+
+@media screen and (max-width: 1024px){
+    .movi{
+    
+        width: 98%;
+    
     }
+    .footer{
+        width: 91%;
+    
+    
+    
+    }
+    .brickhouse{
+    
+        width: 98%;
+    
+    
+    }
+    }
+    @media screen and (max-width: 1024px){
+        .movi{
+        
+            width: 98%;
+        
+        }
+        .footer{
+            width: 91%;
+        
+        
+        
+        }
+        .brickhouse{
+        
+            width: 98%;
+        
+        
+        }
+        }
+        @media (min-width: 320px) and (max-width: 480px) {
+        
+            .brickhouse{
+        
+                width: 260%;
+            
+            
+            }
+           
+            .footer{
+                width: 260%;
+            
+            
+            
+            }
+            .movi{
+        
+                width:260%;
+            
+            }
+            #img3{
+            
 
 
+            }
+
+        }
+
+
+
+        
