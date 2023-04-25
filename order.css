@@ -24,14 +24,199 @@ width: 30px;
 color: white;
 margin-left: 60%;
 }
+.last{
+margin-left: 20%;
+margin-top: -9%;
+padding-bottom: 15px; 
+padding-top: 10px; 
+border-radius: 5px;
+padding-left: 10px;
+padding-right: 128px;
+}
+
+.gmail{
+
+margin-left: 20%;
+margin-top: 1%;
+}
+.box1{
+    height: 53vh;
+    width: 20%;
+border: solid gray;
+margin-top: -10%;
+border-radius: 15px;
+margin-left: 60%;
+padding-left: 30px;
+padding-bottom: 30px;
+
+}
+.you{
+    border:solid greenyellow;
+color: green;
+    padding-bottom: 15px; 
+    padding-top: 15px; 
+border-radius: 5px;
+padding-left: 20px;
+padding-right: 120px;
+/* outline: center; */
+}
+.promo{
+    padding-bottom: 15px; 
+    padding-top: 10px; 
+border-radius: 5px;
+padding-left: 10px;
+padding-right: 128px;
+
+
+}
+
+.confirm{
+    border: #FFD600;
+    background-color: #FFD600;
+    padding-bottom: 15px; 
+    padding-top: 15px; 
+border-radius: 5px;
+padding-left: 20px;
+padding-right: 120px;
+color: white;
+
+}
+.free{
+margin-left: 43%;
+margin-top: -15%;
+}
+.num{
+    color: grey;
+margin-left: 69%;
+margin-top:-10% ;
+
+}
+.instead{
+
+    color: grey;
+}
+.enter{
+margin-top: -15%;
+
+}
+.radio{  
+ margin-left: 2%;
+ 
+
+}
+.two{
+margin-left: 30%;
+margin-top: -7%;
+}
+.twwo{
+margin-top: -3%;
+    margin-left: 40%;
+    color: red;
+}
+.atwo{
+    margin-left: 30%;
+    ;
+    }
+    .freee{
+    margin-top: -3%;
+        margin-left: 40%;
+        color: green;
+    }
+    .ic1{
+  margin-left: 5%;
+color: #FFD600;
+
+    }
+    .ic2{
+        margin-left: 8%;
+        color: #FFD600;
+        margin-top: -1%;
+        
+
+    }
+    .ic3{
+
+        margin-left: 5%;
+       
+        
+        
+
+    }
+    .ic4{
+        margin-left: 8%;
+        color: red;
+        margin-top: -1%;
+     
+
+    }
+    .ic5{
+        margin-left: 8%;
+     
+        margin-top: -1%;
+     
+
+    }
+    .ic6{
+
+        margin-left: 5%;
+
+    }
+    .cash{
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+    }
+     
+    .google{
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+
+    }
+    .apple{
+    
+        margin-left: 15%;
+        margin-top: -1.5%;
+     font-weight: bold;
+     font-size: 20px;
+
+
+    }
+    .brik{
+        color: grey;
+        margin-left: 48%;
+
+    }
+    #fast1{
+      width: 50px;
+       
+
+    }
+    #nova{
+        width: 50px;
+
+
+    }
+
+    
+    /* .mobile{
+        font-weight: bold;
+        margin-left: 40%;
+        font-size: 50px; */
+
+    /* } */
 
 
 
 
-@media screen and (max-width: 667px) {
+
+
+/* @media screen and (max-width: 667px) {
     .first{
        display: grid;
          grid-template-rows:repeat(1fr);  
     }
   }
-  
+   */
