@@ -207,8 +207,68 @@ color: #FFD600;
         font-size: 50px; */
 
     /* } */
+    @media screen and (max-width: 667px){
+     .box1{
+      margin-left: 2%;
+      width: 65%;
+      margin-top:10% ;
+     }
+.enter{
+margin-top:20% ;
+    font-size: 20px;
+}
+     .contacts{
+     font-size: 24px;
+
+
+     }
+
+    .last{
+margin-left: -2%;
+margin-top: 2%;
+
+
+    }
+
+.gmail{
+
+    margin-left: -1%;
+    margin-top: 2%;
+
+}
+.fisrt{
+width: 50%;
+
+
+}
+#ima1{
 
 
 
+
+}
+
+#evelop{
+margin-left: -56%;
+margin-top: 22%;
+
+}
+
+    }
+@media screen and (max-width: 1180px){
+    .box1{
+
+margin-top: -25%;
+width: 30%;
+height:30vh;
+    }
+
+
+.last{
+margin-left: 30%;
+
+
+}
+    }
 
 
